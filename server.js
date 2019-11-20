@@ -11,4 +11,4 @@ require("./app/routing/htmlRoutes.js")(app);
 
 app.listen(PORT, function () {
     console.log("Sever is listening at http://localhost:" + PORT);
-})
+});
